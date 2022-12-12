@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ImageTest::testWrongHost":4},"times":{"ImageTest::testWrongHost":2.283,"ImageTest::testWrongUser":0.003,"ImageTest::testWrongPassword":0.025,"ImageTest::testWrongDatabase":0.016,"ImageTest::testWrongTableName":0.016,"ImageTest::testWrongQuerySyntax":0.015}}
